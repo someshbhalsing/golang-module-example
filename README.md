@@ -1,2 +1,2 @@
-# golang-module-example [![codecov](https://codecov.io/gh/someshbhalsing/golang-module-example/branch/master/graph/badge.svg)](https://codecov.io/gh/someshbhalsing/golang-module-example)
+# golang-module-example [![codecov](https://codecov.io/gh/someshbhalsing/golang-module-example/branch/master/graph/badge.svg)](https://codecov.io/gh/someshbhalsing/golang-module-example)[![Coverage Status](https://coveralls.io/repos/github/someshbhalsing/golang-module-example/badge.svg?branch=master)](https://coveralls.io/github/someshbhalsing/golang-module-example?branch=master)
 a `hello world` for golang module creation and tagging
